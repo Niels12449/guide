@@ -1,10 +1,10 @@
-# Updating from v12 to v13
+# Updating from v13 to v14
 
 ## Before you start
 
-v13 requires Node 16.6 or higher to use, so make sure you're up to date. To check your Node version, use `node -v` in your terminal or command prompt, and if it's not high enough, update it! There are many resources online to help you with this step based on your host system.
+v13 requires Node 16.9 or higher to use, so make sure you're up to date. To check your Node version, use `node -v` in your terminal or command prompt, and if it's not high enough, update it! There are many resources online to help you with this step based on your host system.
 
-Once you've got Node up-to-date, you can install v13 by running the appropriate command in your terminal or command prompt.
+Once you've got Node up-to-date, you can install v14 by running the appropriate command in your terminal or command prompt.
 
 :::: code-group
 ::: code-group-item npm
@@ -61,7 +61,7 @@ pnpm add discord.js
 
 ## API version
 
-discord.js v13 makes the switch to Discord API v9! In addition to this, the new major version also includes a bunch of cool new features.
+discord.js v13 makes the switch to Discord API v10! In addition to this, the new major version also includes a bunch of cool new features.
 
 ## Slash commands
 
