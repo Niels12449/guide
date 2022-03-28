@@ -21,7 +21,7 @@
 				:command="true"
 			>upgrade</DiscordInteraction>
 		</template>
-		discord.js v13 has released and the guide has been updated!
+		discord.js v14 has released and the guide has been updated!
 		<span class="emoji-container">
 			<img class="emoji-image" title="tada" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f389.png" alt="" />
 		</span>
@@ -32,23 +32,21 @@
 
 ## Site
 
-- Upgraded to [VuePress v2](https://v2.vuepress.vuejs.org/)
-- New theme made to match the [discord.js documentation site](https://discord.js.org/)
-- Discord message components upgraded to [@discord-message-components/vue](https://github.com/Danktuary/discord-message-components/blob/main/packages/vue/README.md)
 - Many fixes in code blocks, grammar, consistency, etc.
 
 ## Pages
 
-All content has been updated to use discord.js v13 syntax. The v12 version of the guide can be found at [https://v12.discordjs.guide/](https://v12.discordjs.guide/).
+All content has been updated to use discord.js v14 syntax. The v13 version of the guide can be found at [https://discordjs.guide/](https://discordjs.guide/).
 
 ### New
 
-- [Updating from v12 to v13](/additional-info/changes-in-v13.md): A list of the changes from discord.js v12 to v13
+- [Updating from v13 to v14](/additional-info/changes-in-v14.md): A list of the changes from discord.js v13 to v14
 - [Slash commands](/interactions/slash-commands.md): Registering, replying to slash commands and permissions
 - [Buttons](/interactions/buttons.md): Building, sending, and receiving buttons
 - [Select menus](/interactions/select-menus.md): Building, sending, and receiving select menus
 - [Threads](/popular-topics/threads.md): Creating and managing threads
 - [Builders](/popular-topics/builders.md): A collection of builders to use with your bot
+
 
 ### Updated
 
